@@ -1,0 +1,2 @@
+# popomatic
+Generate POP documentation
